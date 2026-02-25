@@ -1,0 +1,356 @@
+{
+  "main": {
+    "id": "86b296bad3d750a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f26ecb0b23b5f358",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9a4a1735b93d241",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "大纲.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "856eab0b133397a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "多租户架构设计.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "多租户架构设计"
+            }
+          },
+          {
+            "id": "3489031a35ad0af1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "技术债务与重构.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "技术债务与重构"
+            }
+          },
+          {
+            "id": "8df54f0dbf61bf97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "缓存穿透击穿雪崩.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "缓存穿透击穿雪崩"
+            }
+          },
+          {
+            "id": "809ede665184713d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "多租户架构设计.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "多租户架构设计"
+            }
+          },
+          {
+            "id": "e14efe8c9f876edd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据一致性的边界场景.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "数据一致性的边界场景"
+            }
+          },
+          {
+            "id": "e8ee949ca9f26a92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "热点数据处理.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "热点数据处理"
+            }
+          },
+          {
+            "id": "878149374e2b151e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "百万QPS的流量分布.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "百万QPS的流量分布"
+            }
+          },
+          {
+            "id": "43aa9355274c89d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "文档编写要求总结.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "文档编写要求总结"
+            }
+          },
+          {
+            "id": "99274e45214efdc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "缓存一致性方案.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "缓存一致性方案"
+            }
+          },
+          {
+            "id": "fb6565452d0bba72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "缓存穿透击穿雪崩.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "缓存穿透击穿雪崩"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8fda1c687ffd4ab9",
+    "type": "split",
+    "children": [
+      {
+        "id": "0744b73093122111",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04d32126c113de0f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "1830ff83713dcb8c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "a8518c236e999d55",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e835640399109f68",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c5eb1681a828892",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3af162ee51c5e3dd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "多租户架构设计.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "多租户架构设计 的反向链接列表"
+            }
+          },
+          {
+            "id": "55a15ee3c926c6b2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "多租户架构设计.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "多租户架构设计 的出链列表"
+            }
+          },
+          {
+            "id": "1dd691bc85b2b118",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "26642e964d322c45",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "ab45c69d5685de26",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "多租户架构设计.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "多租户架构设计 的大纲"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "856eab0b133397a6",
+  "lastOpenFiles": [
+    "大纲.md",
+    "技术债务与重构.md",
+    "缓存穿透击穿雪崩.md",
+    "多租户架构设计.md",
+    "数据一致性的边界场景.md",
+    "热点数据处理.md",
+    "成本优化.md",
+    "商品与营销的解耦.md",
+    "商品模型的领域建模.md",
+    "监控与故障定位.md",
+    "灰度发布与回滚.md",
+    "数据校验与修复.md",
+    "分布式事务处理.md",
+    "百万QPS的流量分布.md",
+    "性能优化的具体手段.md",
+    "降级与熔断机制.md",
+    "文档编写要求总结.md",
+    "缓存一致性方案.md",
+    "三级缓存的设计细节.md",
+    "百亿数据的冷热分离.md",
+    "分库分表策略深度剖析.md",
+    "跨库查询与数据聚合.md",
+    "容量规划与扩容.md",
+    "技术记录.md",
+    "限流是怎么做的.md",
+    "限流算法汇总.md"
+  ]
+}
